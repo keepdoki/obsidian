@@ -8,14 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4bb7469ba5fab95b",
+            "id": "cb9d5cbde558c16f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "名言.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "名言.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "名言.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "名言.md"
+              }
             }
           }
         ],
@@ -139,8 +148,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f95af1a4ff514293",
+  "active": "cb9d5cbde558c16f",
   "lastOpenFiles": [
+    "MX Player.md",
+    "搜索技巧.md",
+    "名言.md",
+    "材料清单.md",
+    "Potplayer.md",
+    "README.md",
     "未命名2.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
