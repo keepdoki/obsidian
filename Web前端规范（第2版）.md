@@ -1,0 +1,309 @@
+# Web前端规范
+
+## 一. 安装环境
+
+### node
+
+- 版本：**v16.15.0**
+
+### 行末换行符
+- 拒绝提交 LF 与 CRLF 混合的内容：
+```javascript
+git config --global core.safecrlf true
+```
+- 提交时自动转换为 LF，检出时不进行任何操作:
+```javascript
+git config --global core.autocrlf input
+```
+
+## 二. 本地研发
+
+### 编辑器与插件
+- 编辑器：[**Visual Studio Code**](https://code.visualstudio.com/Download)
+
+- Visual Studio Code基础配置
+
+	**设置 setting.json 方法**
+
+	- 1.点击左下角齿轮状的图标，选择 setting 选项
+	- 2.在打开的页面中点击右上角的 open Setting (json) 图标
+	- 3.将下面的内容复制到文件中
+```javascript
+{
+  "editor.tabSize": 2,
+  "files.eol": "\n",
+  "css.validate": false,
+  "less.validate": false,
+  "scss.validate": false,
+  "stylelint.autoFixOnSave": true
+}
+```
+
+- 插件列表（Visual Studio Code的扩展安装）
+	- ESLint 规则检查工具：**ESLint**
+	- StyleLint 样式规则检查工具：**stylelint-plus**
+	- 基础编码规范约束工具：**EditorConfig for VS Code**
+	- 多余空格检查工具：**Trailing Spaces**
+
+- window 用户配置
+	- 终端乱码问题——在setting.json 多加以下配置
+```javascript
+{
+  ...
+  "terminal.integrated.shellArgs.windows": ["/K chcp 65001 >nul"]
+}
+```
+
+## 三.规范
+
+### 编码规范
+[ESLint](https://eslint.bootcss.com/)
+
+### 命名规范
+**1.目录/文件**
+* 常规的文件夹/文件命名使用**全小写**形式，单词之间使用**下划线** _ 连接：home、activity_list
+* 组件文件夹/文件命名使用**大驼峰**形式（名词）：Coupon、CouponList
+* 将页面文件也理解为页面级组件，使用**大驼峰**的形式命名。
+
+**2.图片**
+
+> 图片需要先为对应的业务性质创建文件夹进行存放，文件夹有效的避免同名文件冲突的问题，文件命名由两部分组成：性质_名称，当某一部分需要使用复合单词时，复合单词之间只用**横杠** - 连接
+
+* 图标类型： images/icon/icon_tips images/icon/icon_checked
+* 公共类型： images/common/banner_news
+* 活动类型： images/activity/banner_news
+
+**3.JavaScript**
+* **常量**命名以**全大写**形式，单词之间以下划线 **_** 连接：MAX_VALUE
+* **标识符(变量、函数)**命名使用**小驼峰**形式：car、carSeries、getUserInfo
+* **私有变量**命名使用**小驼峰**形式，单词以下划线 _ 开头：_time
+* **类**命名使用**大驼峰**形式：Person
+
+**4.CSS**
+- 样式的命名我们采用业界赞誉甚佳的 BEM 规则，何为 BEM 呢？
+	- **B**：Block 代表**块**的意思，我们可以理解为视觉观感上的一个整体或是功能独立的部件就称为一个块。
+	- **E**：Element 代表**元素**的意思，是被功能独立的块所包裹的元素。
+	- **M**：Modifier代表**修饰符**的意思，它是为了给相同的元素附加属性而存在的。
+- 规则：我们使用双下划线 **__** 连接B与E，用双横杠 **--** 连接E与M，如果某⼀个部分是复合单词则单词之间以横杠 **-** 连接。
+```javascript
+.nav
+.nav__item
+.nav__item--hover
+# 复合单词
+.sub-nav
+.sub-nav__item
+.sub-nav__item--hover
+```
+
+- 常规的修饰符
+| 描述 | 修饰符 | 描述 |修饰符| 描述 | 修饰符 | 描述 |修饰符|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **激活的** |active | **前一个** |previous|**危险的**|danger |**打开的**|open|
+|**选中的**|selected|**后一个**|next|**警告的**|warning| **关闭的**|close|
+|**默认的**|default| **当前**|current|**错误的**|error| **大**|lg|
+|**反转的**|toggle| **显示**|show|**成功的**|success| **小**|sm|
+|**禁⽤的**|disabled| **隐藏**|hide|**信息**|info| **特小**|xs|
+
+### 请求功能
+
+
+1. 引入request.js（vue为例）
+
+```javascript
+/** request.js */
+import axios from "axios";
+
+const platform = axios;
+/**
+ * Request 请求功能类
+ * @param {String} baseUrl API 地址通用部分字符串
+ * @param {Boolean} isFilterRes 是否过滤请求返回的数据结构 true: 只返回业务服务器的数据
+ */
+class Request {
+  constructor({ baseUrl = '', isFilterRes = true } = {}) {
+    this.baseUrl = baseUrl;
+    this.isFilterRes = isFilterRes;
+  }
+  /**
+   * 请求方法
+   * @param {Object} options 支持原生 request 方法左右参数，具体请参阅官方 API 文档
+   * @param {Object} loadingOps 附加参数，用来支持加载时显示loading功能
+   * @param {Object} toastOps 附加参数，用来支持发生错误时提供错误提示功能
+  */
+  request(options) {
+    const {
+      url, header = {}, method = 'GET', timeout
+    } = options;
+    if (!url) {
+      // eslint-disable-next-line no-console
+      console.error('url 为请求函数必填字段');
+      return undefined;
+    }
+    const upperMethod = method.toUpperCase();
+    return new Promise((resolve) => {
+      platform({
+        ...options,
+        header,
+        url: `${this.baseUrl}${url}`,
+        method: upperMethod,
+        timeout: timeout || 1000 * 60,
+      })
+      .then((res) => {
+        const { data: resData } = res;
+        const { statusCode } = res;
+          if (statusCode === 401) {
+            return;
+          }
+          const isError = (/^(4|5)[0-9][0-9]$/).test(statusCode);
+          if (!isError) {
+            this.isFilterRes ? resolve({err: null, res:resData}) : resolve({err: null, res:res});
+            return undefined;
+          }
+          resolve({err: res, res: null});
+          return undefined;
+      })
+      .catch((err = {}) => {
+        try {
+          resolve({err, res:null});
+        } catch (e) {
+          resolve({err, res: null});
+        }
+      });
+    });
+  }
+}
+
+export {Request};
+
+```
+
+
+2. 初始化请求（以axios为例）
+
+```javascript
+/** services.js */
+import {Request} from '@/utils/request';
+
+const md = new Request({ baseUrl: process.env.VUE_APP_HOST });
+
+export const login = (data) => md.request({
+  url: 'xxxxxxxxx',
+  params:data,
+});
+```
+
+> 默认请求方式GET。GET携带参数用params，POST携带参数用data
+
+
+3. 请求功能函数(以vue为例)
+
+```javascript
+<script>
+...
+import { login } from "@/services"; // 引入
+
+  export default {
+      ...
+	/** 调用 **/
+    /** async 语法 **/
+    const {err, res} = await login();
+
+    /** Promise 语法 **/
+    login().then(({err, res}) => {
+      ...
+    });
+   ...
+ }
+</script>
+```
+
+
+
+### 接口规范
+ - 状态码
+	- 200 OK - [GET]：服务器成功返回用户请求的数据，该操作是幂等的（Idempotent）。 
+	- 201 INVALID REQUEST - [POST/PUT/PATCH]：用户发出的请求有错误，服务器没有进行新建或修改数据的操作，该操作是幂等的。
+	- 202 Accepted - [*]：表示一个请求已经进入后台排队（异步任务） 
+	- 204 NO CONTENT - [DELETE]：用户删除数据成功。 
+	- 401 Unauthorized - [*]：表示用户没有权限（令牌、用户名、密码错误）。 
+	- 403 Forbidden - [*] 表示用户得到授权（与401错误相对），但是访问是被禁止的。 
+	- 404 NOT FOUND - [*]：用户发出的请求针对的是不存在的记录，服务器没有进行操作，该操作是幂等的。 
+	- 406 Not Acceptable - [GET]：用户请求的格式不可得（比如用户请求JSON格式，但是只有XML格式）。 
+	- 410 Gone -[GET]：用户请求的资源被永久删除，且不会再得到的。 
+	- 422 Unprocesable entity - [POST/PUT/PATCH] 当创建一个对象时，发生一个验证错误。 
+	- 500 INTERNAL SERVER ERROR - [*]：服务器发生错误，用户将无法判断发出的请求是否成功。 
+
+
+## 每个项目的自述文件都要写明项目目录（模板已给出）、页面详细和项目资料
+
+### uniapp目录模板
+	┌─components            uni-app组件目录
+	│  └─com-a.vue         	可复用的a组件
+	├─hybrid                存放本地网页的目录
+	├─platforms             存放各平台专用页面的目录
+	├─utils             	工具类
+	│  ├─request            HTTP请求
+	│  └─util               工具
+	├─nativeplugins         原生插件
+	│  └─xxx                xxx插件
+	├─pages                 业务页面文件存放的目录
+	│  ├─coupon             优惠券
+	│  └─list               xxx列表模块
+	├─static                存放应用引用静态资源（如图片、视频等）的目录，注意：静态资源只能存放于此
+	│  ├─video              视频
+	│  └─images				图片
+	├─main.js               初始化入口文件
+	├─App.vue               应用配置，用来配置App全局样式以及监听 应用生命周期
+	├─manifest.json         配置应用名称、appid、logo、版本等打包信息
+	├─README.md         	自述文件
+	└─pages.json            配置页面路由、导航条、选项卡等页面类信息
+
+### 小程序目录模板
+	┌─components            小程序组件目录
+	│  └─com-a.vue         	可复用的a组件
+	├─utils             	工具类
+	│  ├─request            HTTP请求
+	│  └─util               工具
+	├─pages                 业务页面文件存放的目录
+	│  ├─coupon             优惠券
+	│  └─list               xxx列表模块
+	├─static                存放应用引用静态资源（如图片、视频等）的目录，注意：静态资源只能存放于此
+	│  ├─video              视频
+	│  └─images				图片
+	├─app.js                小程序逻辑
+	├─app.wxss              小程序公共样式表
+	├─app.json              小程序公共配置
+	├─project.config.json   工具配置
+	├─README.md         	自述文件
+	└─sitemap.json          配置小程序及其页面是否允许被微信索引
+
+### vue目录模板
+	┌─build                 项目构建(webpack)相关代码
+	├─node_modules          npm 加载的项目依赖模块
+	├─src             	    工具类
+	│  ├─main.js            项目的核心文件
+	│  ├─App.vue            项目入口文件
+	│  ├─pages              业务页面文件存放的目录
+	│  │  └─coupon          优惠券
+	│  └─components         组件目录
+	│     └─com-a.vue       可复用的a组件
+	├─utils             	工具类
+	│  ├─request            HTTP请求
+	│  └─util               工具
+	├─static                存放应用引用静态资源（如图片、视频等）的目录，注意：静态资源只能存放于此
+	│  ├─video              视频
+	│  └─images				图片
+	├─index.html	        首页入口文件
+	├─.xxxx文件              配置文件，包括语法配置，git配置等。
+	├─README.md         	自述文件
+	└─package.json          项目配置文件
+
+> 上面的目录结构为基本模板。
+
+> components，utils，pages，nativeplugins，static目录新增的文件要对应上去。
+
+## 需要理清项目资料
+
+* [原型](https://modao.cc/) 
+* [设计图](https://lanhuapp.com/)
+* 运行设备：小程序 | H5 | APP 
