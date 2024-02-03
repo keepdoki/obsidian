@@ -41,3 +41,15 @@
 	4. 打开`OEBPS/content.opf`，复制`spine`标签里面的`itemref`,修改`xhhtml`的文件名并生成`JSON`
 	5. 按照生成的`JSON`修改导航和`toc.ncx`
 	6. 打包成epub，**Sigil**软件打开，选择“**工具-目录-编辑目录**”，将重新生成的`id`和`playOrder`复制到`toc.ncx`
+
+
+
+## 添加备注
+1. 复制文件
+	1.  复制`note.png`到`OEBPS/Images`	
+	2. 复制 `notereplace.js` 到 `OEBPS/Misc`
+2. 在当前的`xhtml` 文件添加代码
+	1. `<script src="./Misc/notereplace.js" type="text/javascript"></script>`
+	2. `<a class="duokan-footnote no-d" epub:type="noteref" href="#n1" id="A_1"><sup><img alt="note" class="footnote" src="./Images/note.png" /></sup></a>`
+	3. `<aside epub:type="footnote" id="n1"><ol class="duokan-footnote-content"><li class="duokan-footnote-item" id="n1" value="1">注：xxxx</li></ol></aside>`
+3. 
