@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6be8589791aba6fa",
+            "id": "3c8dd300f0a81a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "材料清单.md",
+                "file": "宿舍物品.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "材料清单.md",
+                "file": "宿舍物品.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "材料清单.md",
+                "file": "宿舍物品.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "材料清单.md"
+                "file": "宿舍物品.md"
               }
             }
           }
@@ -147,15 +147,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "6be8589791aba6fa",
+  "active": "3c8dd300f0a81a3d",
   "lastOpenFiles": [
+    "宿舍物品.canvas",
+    "宿舍物品.md",
+    "Web前端/JavaScript.md",
+    "材料清单.md",
     "随录/未命名.canvas",
     "Document/~WRL0003.tmp",
     "Document/~WRD0002.tmp",
     "Document/~WRL0001.tmp",
     "Document/~WRD0000.tmp",
     "Document/~$跃标个人简历.docx",
-    "材料清单.md",
     "随录",
     "名言.md",
     "搜索技巧.md",
@@ -179,7 +182,6 @@
     "Web前端/小程序.md",
     "Web前端/CSS.md",
     "Web前端/Git.md",
-    "Web前端/JavaScript.md",
     "Web前端/uni-App.md",
     "书.canvas",
     "英语兔/动词语气.md",
@@ -189,12 +191,10 @@
     "材料.canvas",
     "Web前端/git忽略文件.md",
     "书单.md",
-    "89N3PDyZzakoH7W6n8ZrjGDDktjh8iWFG6eKRvi3kvpQ.md",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "名.canvas",
     "未命名 3.canvas",
-    "未命名 2.canvas",
-    "未命名 1.canvas"
+    "未命名 2.canvas"
   ]
 }
