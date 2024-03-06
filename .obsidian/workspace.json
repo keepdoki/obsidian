@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "材料清单.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3c731a2c6cd68ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "宿舍物品.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -147,12 +160,14 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3c8dd300f0a81a3d",
+  "active": "d3c731a2c6cd68ac",
   "lastOpenFiles": [
-    "宿舍物品.canvas",
-    "宿舍物品.md",
-    "Web前端/JavaScript.md",
+    "考驾驶证.md",
     "材料清单.md",
+    "名言.md",
+    "宿舍物品.md",
+    "宿舍物品.canvas",
+    "Web前端/JavaScript.md",
     "随录/未命名.canvas",
     "Document/~WRL0003.tmp",
     "Document/~WRD0002.tmp",
@@ -160,7 +175,6 @@
     "Document/~WRD0000.tmp",
     "Document/~$跃标个人简历.docx",
     "随录",
-    "名言.md",
     "搜索技巧.md",
     "epub制作合集.md",
     "Document/~$修改文件名.xlsx",
