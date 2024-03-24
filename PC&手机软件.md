@@ -7,7 +7,7 @@
 | WinRaR                | PC  | 压缩             | [链接1](https://www.rarlab.com)                                                                       |               |
 | Honeyview · 蜂蜜浏览器     | PC  | 图片、阅读          | [链接1](https://www.bandisoft.com/honeyview)                                                          |               |
 | MusicPlayer2          | PC  | 音乐、播放器         | [链接1](https://github.com/zhongyang219/MusicPlayer2/releases)                                        |               |
-| Calibre               | PC  | 电子书、编辑器        | [链接1](https://calibre-ebook.com/)                                                                   |               |
+| Calibre               | PC  | 电子书、编辑器        | [链接1](https://calibre-ebook.com/)                                                                   | [[Calibre]]   |
 | FastStone Capture 绿色版 | PC  | 截图、录视频、工具      | [链接1](https://www.423down.com/660.html)                                                             |               |
 | Ditto                 | PC  | 剪切板            | [链接1](https://ditto-cp.sourceforge.io)                                                              |               |
 | Voidtools             | PC  | 搜索引擎、文件夹、文件    | [链接1](https://www.voidtools.com/zh-cn/downloads)                                                    |               |
@@ -18,3 +18,4 @@
 | MX Player             | 手机  | 视频、播放器         |                                                                                                     | [[MX Player]] |
 | MKVToolNix            | PC  | 编辑器、视频         | [链接1](https://www.fosshub.com/MKVToolNix.html)                                                      |               |
 | gMKVExtractGUI_chs    | PC  | 编辑器、字幕         | [链接1](https://github.com/hooke007/gMKVExtractGUI_chs)                                               |               |
+| Aegisub               | PC  | 编辑器、字幕         | [链接1](https://aegisub.org/downloads)                                                                |               |
