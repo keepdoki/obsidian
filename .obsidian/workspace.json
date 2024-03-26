@@ -11,11 +11,14 @@
             "id": "7b2a9a2143235e39",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "搜索技巧.md",
-                "mode": "source",
-                "source": false
+                "file": "知否人物关系图.canvas",
+                "viewState": {
+                  "x": 1055,
+                  "y": -200,
+                  "zoom": -0.22220639915310875
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "搜索技巧.md",
+                "file": "知否人物关系图.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "搜索技巧.md",
+                "file": "知否人物关系图.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "搜索技巧.md"
+                "file": "知否人物关系图.canvas"
               }
             }
           }
@@ -149,6 +152,11 @@
   },
   "active": "7b2a9a2143235e39",
   "lastOpenFiles": [
+    "Kindle 阅读进度.md",
+    "epub制作合集.md",
+    "知否人物关系图.canvas",
+    "书籍.canvas",
+    "搜索技巧.md",
     "名言.md",
     "练字.md",
     "考驾驶证.md",
@@ -159,14 +167,11 @@
     "Web前端/故障复盘.md",
     "Web前端/规范.md",
     "Web前端/加解密.md",
-    "搜索技巧.md",
     "宿舍物品.md",
-    "epub制作合集.md",
     "Document/~$修改文件名.xlsx",
     "PC&手机软件.md",
     "随录/工作、消费主义和新穷人.canvas",
     "README.md",
-    "Kindle 阅读进度.md",
     "PC&手机软件/Calibre.md",
     "PC&手机软件/Potplayer.md",
     "Web前端/Readme.md",
@@ -176,7 +181,6 @@
     "Web前端/Uni-App.md",
     "Web前端/JavaScript.md",
     "Web前端/混合开发.md",
-    "Web前端/小程序.md",
     "宿舍物品.canvas",
     "Document/~WRL0003.tmp",
     "Document/~WRD0002.tmp",
@@ -189,13 +193,11 @@
     "Document/~WRL2017.tmp",
     "Document/~WRD2017.tmp",
     "书.canvas",
-    "书籍.canvas",
     "css.png",
     "材料.canvas",
     "未命名 5.canvas",
     "未命名 4.canvas",
     "名.canvas",
-    "未命名 3.canvas",
-    "未命名 2.canvas"
+    "未命名 3.canvas"
   ]
 }
