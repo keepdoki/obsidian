@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "a3072e55e9d198ac",
+    "id": "dcfe22d91f9d3573",
     "type": "split",
     "children": [
       {
-        "id": "2c02df059d007b2e",
+        "id": "ca343a3292b4a10c",
         "type": "tabs",
         "children": [
           {
-            "id": "e5abd0dfcf9a13a0",
+            "id": "e36befa6fe37c7ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "c5d71d320f65f122",
+    "id": "fb419d74d7771bdd",
     "type": "split",
     "children": [
       {
-        "id": "d91d3b97d04032b6",
+        "id": "86f79a4f86d1ee55",
         "type": "tabs",
         "children": [
           {
-            "id": "f95af1a4ff514293",
+            "id": "eb8e2a24a63ca697",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "098236ad25efe631",
+            "id": "b209d051763bcdc2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "a4fb28ecc875dcc2",
+            "id": "98232c94d44b27ae",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,21 +72,21 @@
     "width": 300
   },
   "right": {
-    "id": "50ff310424d23ef1",
+    "id": "be10dd25249efb72",
     "type": "split",
     "children": [
       {
-        "id": "c1af067e571621f7",
+        "id": "24ce9f65aa4bf229",
         "type": "tabs",
         "children": [
           {
-            "id": "912c30506d950ae6",
+            "id": "29d50c96db8c2a87",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
                 "file": "随录/重塑自我：如何成为一个很幸福的人.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "9b24e94f5f543695",
+            "id": "41ebef8c89470a3f",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "cba1802bc9f2124e",
+            "id": "c69d0a1e55a5c3e3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "5def04bcdfb0148f",
+            "id": "be0ac8623561d6d9",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -129,12 +129,11 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 533.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -147,54 +146,6 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5abd0dfcf9a13a0",
-  "lastOpenFiles": [
-    "随录/工作、消费主义和新穷人.canvas",
-    "随录/重塑自我：如何成为一个很幸福的人.md",
-    "进度.md",
-    "知否人物关系图.canvas",
-    "书籍.canvas",
-    "PC&手机软件/Calibre.md",
-    "材料清单.md",
-    "Web前端/Readme.md",
-    "Web前端/CSS.md",
-    "Web前端/Scope.md",
-    "Web前端/Tools.md",
-    "Web前端/Uni-App.md",
-    "Web前端/JavaScript.md",
-    "Web前端/材料.md",
-    "Web前端/故障复盘.md",
-    "Web前端/规范.md",
-    "Web前端/混合开发.md",
-    "Web前端/加解密.md",
-    "Web前端/小程序.md",
-    "Web前端/Git.md",
-    "Kindle 阅读进度.md",
-    "练字.md",
-    "宿舍物品.md",
-    "考驾驶证.md",
-    "名言.md",
-    "宿舍物品.canvas",
-    "随录/未命名.canvas",
-    "Document/~WRL0003.tmp",
-    "Document/~WRD0002.tmp",
-    "Document/~WRL0001.tmp",
-    "Document/~WRD0000.tmp",
-    "Document/~$跃标个人简历.docx",
-    "随录",
-    "搜索技巧.md",
-    "epub制作合集.md",
-    "Document/~$修改文件名.xlsx",
-    "README.md",
-    "Image/css !important.png",
-    "Document/陆跃标个人简历.docx",
-    "Document/~WRL2017.tmp",
-    "Document/~WRD2017.tmp",
-    "书.canvas",
-    "css.png",
-    "材料.canvas",
-    "未命名 5.canvas",
-    "未命名 4.canvas",
-    "名.canvas"
-  ]
+  "active": "e36befa6fe37c7ec",
+  "lastOpenFiles": []
 }
