@@ -8,17 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7b2a9a2143235e39",
+            "id": "e5abd0dfcf9a13a0",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "知否人物关系图.canvas",
-                "viewState": {
-                  "x": 1055,
-                  "y": -200,
-                  "zoom": -0.22220639915310875
-                }
+                "file": "随录/重塑自我：如何成为一个很幸福的人.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "知否人物关系图.canvas",
+                "file": "随录/重塑自我：如何成为一个很幸福的人.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "知否人物关系图.canvas",
+                "file": "随录/重塑自我：如何成为一个很幸福的人.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "知否人物关系图.canvas"
+                "file": "随录/重塑自我：如何成为一个很幸福的人.md"
               }
             }
           }
@@ -150,44 +147,45 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7b2a9a2143235e39",
+  "active": "e5abd0dfcf9a13a0",
   "lastOpenFiles": [
-    "Kindle 阅读进度.md",
-    "epub制作合集.md",
+    "随录/工作、消费主义和新穷人.canvas",
+    "随录/重塑自我：如何成为一个很幸福的人.md",
+    "进度.md",
     "知否人物关系图.canvas",
     "书籍.canvas",
-    "搜索技巧.md",
-    "名言.md",
-    "练字.md",
-    "考驾驶证.md",
-    "进度.md",
-    "材料清单.md",
-    "PC&手机软件/MX Player.md",
-    "Web前端/材料.md",
-    "Web前端/故障复盘.md",
-    "Web前端/规范.md",
-    "Web前端/加解密.md",
-    "宿舍物品.md",
-    "Document/~$修改文件名.xlsx",
-    "PC&手机软件.md",
-    "随录/工作、消费主义和新穷人.canvas",
-    "README.md",
     "PC&手机软件/Calibre.md",
-    "PC&手机软件/Potplayer.md",
+    "材料清单.md",
     "Web前端/Readme.md",
     "Web前端/CSS.md",
     "Web前端/Scope.md",
     "Web前端/Tools.md",
     "Web前端/Uni-App.md",
     "Web前端/JavaScript.md",
+    "Web前端/材料.md",
+    "Web前端/故障复盘.md",
+    "Web前端/规范.md",
     "Web前端/混合开发.md",
+    "Web前端/加解密.md",
+    "Web前端/小程序.md",
+    "Web前端/Git.md",
+    "Kindle 阅读进度.md",
+    "练字.md",
+    "宿舍物品.md",
+    "考驾驶证.md",
+    "名言.md",
     "宿舍物品.canvas",
+    "随录/未命名.canvas",
     "Document/~WRL0003.tmp",
     "Document/~WRD0002.tmp",
     "Document/~WRL0001.tmp",
     "Document/~WRD0000.tmp",
     "Document/~$跃标个人简历.docx",
     "随录",
+    "搜索技巧.md",
+    "epub制作合集.md",
+    "Document/~$修改文件名.xlsx",
+    "README.md",
     "Image/css !important.png",
     "Document/陆跃标个人简历.docx",
     "Document/~WRL2017.tmp",
@@ -197,7 +195,6 @@
     "材料.canvas",
     "未命名 5.canvas",
     "未命名 4.canvas",
-    "名.canvas",
-    "未命名 3.canvas"
+    "名.canvas"
   ]
 }
