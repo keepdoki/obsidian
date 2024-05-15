@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ca343a3292b4a10c",
+        "id": "5226dd108d6fb284",
         "type": "tabs",
         "children": [
           {
-            "id": "e36befa6fe37c7ec",
+            "id": "ab624e02a18bdb9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随录/重塑自我：如何成为一个很幸福的人.md",
+                "file": "PC&手机软件.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随录/重塑自我：如何成为一个很幸福的人.md",
+                "file": "PC&手机软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随录/重塑自我：如何成为一个很幸福的人.md",
+                "file": "PC&手机软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随录/重塑自我：如何成为一个很幸福的人.md"
+                "file": "PC&手机软件.md"
               }
             }
           }
@@ -146,9 +146,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e36befa6fe37c7ec",
+  "active": "ab624e02a18bdb9c",
   "lastOpenFiles": [
+    "README.md",
+    "材料清单.md",
+    "进度.md",
+    "练字.md",
+    "随录/重塑自我：如何成为一个很幸福的人.md",
+    "随录/工作、消费主义和新穷人.canvas",
+    "书籍.canvas",
+    "英语兔/语法.md",
+    "英语兔/英语兔.md",
+    "英语兔/动词语气.md",
+    "专升本/专升本.md",
+    "PC&手机软件.md",
+    "专升本",
+    "epub制作合集.md",
+    "搜索技巧.md",
     "知否人物关系图.canvas",
-    "随录/重塑自我：如何成为一个很幸福的人.md"
+    "宿舍物品.md",
+    "名言.md",
+    "考驾驶证.md",
+    "Web前端/Web前端.md",
+    "随录/Kindle.md",
+    "工作、消费主义和新穷人.md",
+    "PC&手机软件/Calibre.md"
   ]
 }
