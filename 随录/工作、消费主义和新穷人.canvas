@@ -26,7 +26,6 @@
 		{"id":"f3ed3e81b32c2955","type":"text","text":"仅供生存","x":-429,"y":1180,"width":255,"height":60},
 		{"id":"edc41ba8d4c8b779","type":"text","text":"雇员","x":-1404,"y":1120,"width":255,"height":60},
 		{"id":"7a1950ebefdf7543","type":"text","text":"体罚","x":22,"y":1380,"width":255,"height":60},
-		{"id":"244aad0fecc1eac9","type":"text","text":"工厂","x":-1438,"y":960,"width":255,"height":60},
 		{"id":"2bb8ba72a7cf7c45","type":"text","text":"消减工资","x":22,"y":1500,"width":255,"height":60},
 		{"id":"da4c291429103f17","type":"text","text":"在欲望被安抚之前激发新的欲望，在因占有而感到厌倦、烦躁之前替换新的猎物。永远不出现厌倦","x":2238,"y":-260,"width":814,"height":60},
 		{"id":"cea9203442585c65","type":"text","text":"消费者","x":2520,"y":147,"width":250,"height":60},
@@ -50,7 +49,8 @@
 		{"id":"2aa5c1f6a4d29f5f","type":"text","text":"对福利领取者的污名化","x":3874,"y":1920,"width":250,"height":60},
 		{"id":"335c72be0e3c7fcf","type":"text","text":"国家福利","x":2771,"y":2320,"width":250,"height":60},
 		{"id":"aa921f658cac4cb6","type":"text","text":"福利理念和工作伦理","x":2978,"y":2529,"width":250,"height":60},
-		{"id":"d9b0402213fd5675","type":"text","text":"公共福利","x":3200,"y":2320,"width":250,"height":60}
+		{"id":"d9b0402213fd5675","type":"text","text":"公共福利","x":3200,"y":2320,"width":250,"height":60},
+		{"id":"244aad0fecc1eac9","type":"text","text":"工厂","x":-1404,"y":960,"width":255,"height":60}
 	],
 	"edges":[
 		{"id":"ac182cb278588188","fromNode":"2818f7d946615dca","fromSide":"right","toNode":"21106e98b7c3510b","toSide":"left","label":"前提"},
