@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随录/非暴力沟通.md",
+                "file": "专升本/计算机组成原理.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随录/非暴力沟通.md",
+                "file": "专升本/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随录/非暴力沟通.md",
+                "file": "专升本/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随录/非暴力沟通.md"
+                "file": "专升本/计算机组成原理.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "06a91969da3e9dce",
   "lastOpenFiles": [
+    "随录/非暴力沟通.md",
     "Web前端/混合开发.md",
     "Web前端/规范.md",
     "Web前端/故障复盘.md",
@@ -161,7 +162,6 @@
     "名言.md",
     "书籍.canvas",
     "材料清单.md",
-    "随录/非暴力沟通.md",
     "专升本/中国近代史.md",
     "专升本/专升本.md",
     "专升本/计算机组成原理.md",
