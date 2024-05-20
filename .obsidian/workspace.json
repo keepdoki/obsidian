@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专升本/计算机组成原理.md",
-                "mode": "source",
+                "file": "随录/非暴力沟通.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专升本/计算机组成原理.md",
+                "file": "随录/非暴力沟通.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专升本/计算机组成原理.md",
+                "file": "随录/非暴力沟通.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专升本/计算机组成原理.md"
+                "file": "随录/非暴力沟通.md"
               }
             }
           }
@@ -148,6 +148,11 @@
   },
   "active": "06a91969da3e9dce",
   "lastOpenFiles": [
+    "专升本/程序设计基础.md",
+    "专升本/大学英语.md",
+    "专升本/概率论与数理统计.md",
+    "专升本/计算机组成原理.md",
+    "专升本/线性代数.md",
     "随录/非暴力沟通.md",
     "Web前端/混合开发.md",
     "Web前端/规范.md",
@@ -164,11 +169,6 @@
     "材料清单.md",
     "专升本/中国近代史.md",
     "专升本/专升本.md",
-    "专升本/计算机组成原理.md",
-    "专升本/线性代数.md",
-    "专升本/程序设计基础.md",
-    "专升本/概率论与数理统计.md",
-    "专升本/大学英语.md",
     "随录/工作、消费主义和新穷人.canvas",
     "随录/Kindle.md",
     "随录/重塑自我：如何成为一个很幸福的人.md",
