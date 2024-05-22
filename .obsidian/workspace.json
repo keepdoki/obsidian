@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随录/非暴力沟通.md",
-                "mode": "preview",
+                "file": "PC&手机软件.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随录/非暴力沟通.md",
+                "file": "PC&手机软件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随录/非暴力沟通.md",
+                "file": "PC&手机软件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随录/非暴力沟通.md"
+                "file": "PC&手机软件.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "06a91969da3e9dce",
   "lastOpenFiles": [
+    "随录/非暴力沟通.md",
     "专升本/程序设计基础.md",
     "专升本/大学英语.md",
     "专升本/概率论与数理统计.md",
     "专升本/计算机组成原理.md",
     "专升本/线性代数.md",
-    "随录/非暴力沟通.md",
     "Web前端/混合开发.md",
     "Web前端/规范.md",
     "Web前端/故障复盘.md",

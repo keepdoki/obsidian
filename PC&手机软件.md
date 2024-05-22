@@ -19,3 +19,4 @@
 | MKVToolNix            | PC  | 编辑器、视频         | [链接1](https://www.fosshub.com/MKVToolNix.html)                                                      |               |
 | gMKVExtractGUI_chs    | PC  | 编辑器、字幕         | [链接1](https://github.com/hooke007/gMKVExtractGUI_chs)                                               |               |
 | Aegisub               | PC  | 编辑器、字幕         | [链接1](https://aegisub.org/downloads)                                                                |               |
+| ReNamer Lite          | PC  | 操作文件           | [链接1](https://www.softpedia.com/get/System/File-Management/Denis-Kozlov-ReNamer.shtml)              |               |
