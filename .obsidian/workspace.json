@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PC&手机软件.md",
-                "mode": "source",
+                "file": "专升本/计算机组成原理.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "be10dd25249efb72",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PC&手机软件.md",
+                "file": "专升本/计算机组成原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PC&手机软件.md",
+                "file": "专升本/计算机组成原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC&手机软件.md"
+                "file": "专升本/计算机组成原理.md"
               }
             }
           }
@@ -148,6 +149,7 @@
   },
   "active": "06a91969da3e9dce",
   "lastOpenFiles": [
+    "PC&手机软件.md",
     "随录/非暴力沟通.md",
     "专升本/程序设计基础.md",
     "专升本/大学英语.md",
@@ -159,7 +161,6 @@
     "Web前端/故障复盘.md",
     "Web前端/材料.md",
     "README.md",
-    "PC&手机软件.md",
     "epub制作合集.md",
     "搜索技巧.md",
     "进度.md",
