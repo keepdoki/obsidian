@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "专升本/线性代数.md",
-                "mode": "preview",
+                "file": "随录/Kindle.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "专升本/线性代数.md",
+                "file": "随录/Kindle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "专升本/线性代数.md",
+                "file": "随录/Kindle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "专升本/线性代数.md"
+                "file": "随录/Kindle.md"
               }
             }
           }
@@ -148,35 +148,35 @@
   },
   "active": "06a91969da3e9dce",
   "lastOpenFiles": [
-    "专升本/程序设计基础.md",
-    "epub制作合集.md",
     "随录/非暴力沟通.md",
-    "随录/重塑自我：如何成为一个很幸福的人.md",
-    "专升本/概率论与数理统计.md",
-    "专升本/计算机组成原理.md",
-    "PC&手机软件.md",
-    "专升本/大学英语.md",
-    "专升本/线性代数.md",
-    "Web前端/混合开发.md",
-    "Web前端/规范.md",
-    "Web前端/故障复盘.md",
-    "Web前端/材料.md",
-    "README.md",
-    "搜索技巧.md",
+    "随录/Kindle.md",
+    "英语兔/动词语气.md",
+    "英语兔/英语兔.md",
+    "英语兔/语法.md",
     "进度.md",
+    "PC&手机软件.md",
+    "PC&手机软件/Potplayer.md",
+    "PC&手机软件/MX Player.md",
+    "PC&手机软件/Calibre.md",
+    "Web前端/材料.md",
+    "Web前端/故障复盘.md",
+    "材料清单.md",
     "练字.md",
     "名言.md",
     "书籍.canvas",
-    "材料清单.md",
-    "专升本/中国近代史.md",
+    "搜索技巧.md",
+    "epub制作合集.md",
+    "README.md",
+    "专升本/线性代数.md",
     "专升本/专升本.md",
+    "专升本/大学英语.md",
+    "专升本/概率论与数理统计.md",
+    "专升本/程序设计基础.md",
+    "专升本/计算机组成原理.md",
+    "专升本/中国近代史.md",
+    "随录/重塑自我：如何成为一个很幸福的人.md",
     "随录/工作、消费主义和新穷人.canvas",
-    "随录/Kindle.md",
-    "英语兔/英语兔.md",
-    "英语兔/语法.md",
-    "英语兔/动词语气.md",
     "专升本",
-    "知否人物关系图.canvas",
-    "宿舍物品.md"
+    "知否人物关系图.canvas"
   ]
 }
