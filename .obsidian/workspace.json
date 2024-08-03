@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "随录/Kindle.md",
+                "file": "中图法/Z 综合性图书.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随录/Kindle.md",
+                "file": "中图法/Z 综合性图书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随录/Kindle.md",
+                "file": "中图法/Z 综合性图书.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随录/Kindle.md"
+                "file": "中图法/Z 综合性图书.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "06a91969da3e9dce",
   "lastOpenFiles": [
-    "随录/非暴力沟通.md",
-    "随录/Kindle.md",
-    "英语兔/动词语气.md",
-    "英语兔/英语兔.md",
-    "英语兔/语法.md",
-    "进度.md",
-    "PC&手机软件.md",
-    "PC&手机软件/Potplayer.md",
-    "PC&手机软件/MX Player.md",
-    "PC&手机软件/Calibre.md",
-    "Web前端/材料.md",
-    "Web前端/故障复盘.md",
-    "材料清单.md",
-    "练字.md",
-    "名言.md",
+    "中图法/V 航空、航天.md",
+    "中图法/T 工业技术.md",
+    "中图法/D 政治、法律.md",
+    "中图法/A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md",
+    "中图法/B 哲学.md",
+    "中图法/C 社会科学总论.md",
+    "中图法/E 军事.md",
+    "中图法/F 经济.md",
+    "中图法/G 文化、科学、教育.md",
+    "中图法/H 语言、文字.md",
+    "中图法/I 文学.md",
+    "中图法/J 艺术.md",
+    "中图法/K 历史、地理.md",
+    "中图法/N 自然科学总论.md",
+    "中图法/O 数理科学和化学.md",
+    "中图法/P 天文学、地球科学.md",
+    "中图法/Q 生物科学.md",
+    "中图法/R 医药、卫生.md",
+    "中图法/S 农业科学.md",
+    "中图法/U 交通运输.md",
+    "中图法/Z 综合性图书.md",
+    "中图法/X 环境科学、安全科学.md",
+    "书籍.md",
     "书籍.canvas",
-    "搜索技巧.md",
-    "epub制作合集.md",
-    "README.md",
-    "专升本/线性代数.md",
-    "专升本/专升本.md",
-    "专升本/大学英语.md",
-    "专升本/概率论与数理统计.md",
-    "专升本/程序设计基础.md",
-    "专升本/计算机组成原理.md",
-    "专升本/中国近代史.md",
+    "中图法",
+    "随录/Kindle.md",
+    "随录/非暴力沟通.md",
     "随录/重塑自我：如何成为一个很幸福的人.md",
     "随录/工作、消费主义和新穷人.canvas",
     "专升本",
