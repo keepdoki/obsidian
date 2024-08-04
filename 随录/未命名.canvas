@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"651d714791cf31c3","x":-40,"y":-20,"width":250,"height":60,"type":"text","text":"B81 逻辑学(论理学)"},
+		{"id":"1328613e901f0237","x":-40,"y":60,"width":250,"height":60,"type":"text","text":"B82 伦理学(道德哲学)"},
+		{"id":"563a212a007b4d53","x":-40,"y":140,"width":250,"height":60,"type":"text","text":"B84 心理学"},
+		{"id":"0dcf3c593e25244d","x":-40,"y":220,"width":250,"height":60,"type":"text","text":"C91 社会学"},
+		{"id":"d58958140ee6057b","x":260,"y":-20,"width":250,"height":60,"type":"text","text":"F0 经济学"},
+		{"id":"60d590f903d9bd18","x":260,"y":60,"width":250,"height":60,"type":"text","text":"D0 政治理论"},
+		{"id":"896fa2a5184d1d3c","x":260,"y":140,"width":250,"height":60,"type":"text","text":"C93 管理学"},
+		{"id":"c5f3000df841cb13","x":260,"y":220,"width":250,"height":60,"type":"text","text":"H3 常用外国语"},
+		{"id":"76cf80dc3103abe7","x":-40,"y":-105,"width":250,"height":60,"type":"text","text":"A4 毛泽东著作"},
+		{"id":"086a501f458d4cd7","x":260,"y":-105,"width":280,"height":60,"type":"text","text":"A1 马克思、恩格斯著作      "},
+		{"id":"b2cacc02867ea94a","x":-40,"y":300,"width":250,"height":60,"type":"text","text":"I1 世界文学"},
+		{"id":"9726260350eff35b","x":260,"y":300,"width":250,"height":60,"type":"text","text":"I2 中国文学"},
+		{"id":"83e339985978eefc","x":-40,"y":380,"width":250,"height":60,"type":"text","text":"I3/7 各国文学"},
+		{"id":"dc35a9ca30c158a3","x":260,"y":380,"width":250,"height":60,"type":"text","text":"J9 电影、电视艺术"},
+		{"id":"a0e5e09ae18f481b","x":-40,"y":460,"width":250,"height":60,"type":"text","text":"K1 世界史"},
+		{"id":"901555b80a94d774","x":260,"y":460,"width":250,"height":60,"type":"text","text":"K2 中国史"},
+		{"id":"4f82c0e84003f583","x":-40,"y":540,"width":250,"height":60,"type":"text","text":"K81 传记"},
+		{"id":"29e666409fd81a26","x":260,"y":540,"width":250,"height":60,"type":"text","text":"K89 风俗习惯"},
+		{"id":"56cd3a981e4a7361","x":260,"y":620,"width":250,"height":60,"type":"text","text":"O3 力学"},
+		{"id":"3915e5de707bbc5c","x":260,"y":700,"width":250,"height":60,"type":"text","text":"O6 化学"},
+		{"id":"6f47b86e460e1e96","x":-40,"y":-200,"width":250,"height":60,"color":"1","type":"text","text":"I0 文学理论"},
+		{"id":"4d0d4cc6d06cf14c","x":260,"y":-200,"width":250,"height":60,"color":"1","type":"text","text":"B80 思维科学"},
+		{"id":"f7d0883612940c80","x":-40,"y":-300,"width":250,"height":60,"color":"1","type":"text","text":"B0 哲学理论"},
+		{"id":"4cb56ed31d9d44a1","x":-40,"y":620,"width":250,"height":60,"type":"text","text":"O4 物理学"},
+		{"id":"30f0d0808d604b68","x":-40,"y":700,"width":250,"height":60,"type":"text","text":"O7 晶体学"},
+		{"id":"e66026cc4c580149","x":-40,"y":780,"width":275,"height":60,"type":"text","text":"TP 自动化技术、计算机技术"},
+		{"id":"61c6bb940a0410b8","x":260,"y":-300,"width":250,"height":60,"color":"1","type":"text","text":"O1 数学"}
+	],
+	"edges":[]
+}
