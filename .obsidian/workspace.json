@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c533534923b92101",
+        "id": "d3e00af219bae3ac",
         "type": "tabs",
         "children": [
           {
-            "id": "06a91969da3e9dce",
+            "id": "0cf26011212403ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "中图法/K 历史、地理.md",
-                "mode": "preview",
-                "source": false
+                "file": "随录/费曼学习法.canvas",
+                "viewState": {
+                  "x": 770,
+                  "y": 684,
+                  "zoom": -1.6223777000645816
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "中图法/K 历史、地理.md",
+                "file": "随录/费曼学习法.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "中图法/K 历史、地理.md",
+                "file": "随录/费曼学习法.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中图法/K 历史、地理.md"
+                "file": "随录/费曼学习法.canvas"
               }
             }
           }
@@ -146,18 +149,31 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "06a91969da3e9dce",
+  "active": "0cf26011212403ea",
   "lastOpenFiles": [
+    "随录/工作、消费主义和新穷人.canvas",
+    "随录/费曼学习法.canvas",
+    "随录/非暴力沟通.md",
+    "随录/Kindle.md",
+    "随录/费曼学习法.md",
+    "Image/css !important.png",
     "中图法/B 哲学.md",
-    "中图法/A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md",
-    "中图法/C 社会科学总论.md",
+    "随录/中图法.canvas",
+    "未命名",
+    "名言.md",
+    "中图法/I 文学.md",
+    "中图法/G 文化、科学、教育.md",
+    "中图法/E 军事.md",
     "中图法/D 政治、法律.md",
     "中图法/F 经济.md",
-    "中图法/G 文化、科学、教育.md",
-    "中图法/H 语言、文字.md",
-    "中图法/I 文学.md",
-    "中图法/J 艺术.md",
     "中图法/K 历史、地理.md",
+    "中图法/J 艺术.md",
+    "中图法/C 社会科学总论.md",
+    "中图法/H 语言、文字.md",
+    "中图法/V 航空、航天.md",
+    "中图法/X 环境科学、安全科学.md",
+    "中图法/Z 综合性图书.md",
+    "中图法/A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md",
     "中图法/N 自然科学总论.md",
     "中图法/O 数理科学和化学.md",
     "中图法/P 天文学、地球科学.md",
@@ -165,18 +181,8 @@
     "中图法/R 医药、卫生.md",
     "中图法/S 农业科学.md",
     "中图法/T 工业技术.md",
-    "中图法/E 军事.md",
-    "中图法/Z 综合性图书.md",
-    "中图法/X 环境科学、安全科学.md",
-    "中图法/V 航空、航天.md",
-    "中图法/U 交通运输.md",
-    "随录/未命名.canvas",
-    "随录/重塑自我：如何成为一个很幸福的人.md",
-    "名言.md",
-    "README.md",
     "书籍.canvas",
     "中图法",
-    "随录/工作、消费主义和新穷人.canvas",
     "专升本",
     "知否人物关系图.canvas"
   ]
