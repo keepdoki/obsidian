@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"f406cb12f4a80364","type":"text","text":"专升本","x":-142,"y":29,"width":250,"height":60},
+		{"id":"742bf451f28ba503","type":"text","text":"英语","x":160,"y":-100,"width":250,"height":60},
+		{"id":"57e7cc2e1ce54dbc","type":"text","text":"线性代数","x":160,"y":-1,"width":250,"height":60},
+		{"id":"510ae248462c484c","type":"text","text":"C++","x":160,"y":89,"width":250,"height":60},
+		{"id":"066fc22d7dcd669f","type":"text","text":"学位考试-2025年","x":465,"y":-100,"width":250,"height":60},
+		{"id":"26a191148d7ea50a","type":"text","text":"大学英语水平","x":740,"y":-100,"width":250,"height":60},
+		{"id":"947e3424267aecee","type":"text","text":"两性","x":-142,"y":-200,"width":250,"height":60},
+		{"id":"d6c2893031df8095","type":"text","text":"手淫","x":160,"y":-200,"width":250,"height":60},
+		{"id":"a2c5bcfc1a43daee","type":"text","text":"经济来源","x":-142,"y":200,"width":250,"height":60},
+		{"id":"3e9eebcd17861744","type":"text","text":"打工","x":140,"y":200,"width":100,"height":60},
+		{"id":"890b002edc710765","type":"text","text":"web技术","x":285,"y":200,"width":250,"height":60},
+		{"id":"f1e2f35b230bcf4e","type":"text","text":"人情世故","x":-142,"y":320,"width":250,"height":60},
+		{"id":"95a4fcb76964e211","x":160,"y":320,"width":250,"height":60,"type":"text","text":"长知识"},
+		{"id":"a43ea5db79f33ab8","x":-142,"y":420,"width":250,"height":60,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"5cc7171e8f8374dc","fromNode":"f406cb12f4a80364","fromSide":"right","toNode":"57e7cc2e1ce54dbc","toSide":"left"},
+		{"id":"6a21f1e76b40e6a2","fromNode":"f406cb12f4a80364","fromSide":"right","toNode":"742bf451f28ba503","toSide":"left"},
+		{"id":"9170fd8c4072dadf","fromNode":"947e3424267aecee","fromSide":"right","toNode":"d6c2893031df8095","toSide":"left"},
+		{"id":"449145fca8969167","fromNode":"f406cb12f4a80364","fromSide":"right","toNode":"510ae248462c484c","toSide":"left"},
+		{"id":"1602ab0fb39455a6","fromNode":"742bf451f28ba503","fromSide":"right","toNode":"066fc22d7dcd669f","toSide":"left"},
+		{"id":"2b034ec1b308dac6","fromNode":"a2c5bcfc1a43daee","fromSide":"right","toNode":"3e9eebcd17861744","toSide":"left"},
+		{"id":"378db2d9949d8e2b","fromNode":"3e9eebcd17861744","fromSide":"right","toNode":"890b002edc710765","toSide":"left"},
+		{"id":"dc61498b0cedb46e","fromNode":"f1e2f35b230bcf4e","fromSide":"right","toNode":"95a4fcb76964e211","toSide":"left"}
+	]
+}

@@ -4,25 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "d3e00af219bae3ac",
+        "id": "227313256b223bf2",
         "type": "tabs",
+        "dimension": 99.99999999999999,
         "children": [
           {
-            "id": "0cf26011212403ea",
+            "id": "d8515dd19aff4431",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "mindmap",
+              "state": {}
+            }
+          },
+          {
+            "id": "02c373f71229ac52",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
               "state": {
-                "file": "随录/费曼学习法.canvas",
-                "viewState": {
-                  "x": 770,
-                  "y": 684,
-                  "zoom": -1.6223777000645816
-                }
+                "file": "中图法.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "随录/费曼学习法.canvas",
+                "file": "中图法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "随录/费曼学习法.canvas",
+                "file": "中图法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,11 +133,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "随录/费曼学习法.canvas"
+                "file": "中图法.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -149,38 +155,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0cf26011212403ea",
+  "active": "02c373f71229ac52",
   "lastOpenFiles": [
-    "随录/工作、消费主义和新穷人.canvas",
-    "随录/费曼学习法.canvas",
-    "随录/非暴力沟通.md",
-    "随录/Kindle.md",
-    "随录/费曼学习法.md",
-    "Image/css !important.png",
-    "中图法/B 哲学.md",
-    "随录/中图法.canvas",
-    "未命名",
-    "名言.md",
-    "中图法/I 文学.md",
-    "中图法/G 文化、科学、教育.md",
-    "中图法/E 军事.md",
-    "中图法/D 政治、法律.md",
-    "中图法/F 经济.md",
-    "中图法/K 历史、地理.md",
-    "中图法/J 艺术.md",
-    "中图法/C 社会科学总论.md",
-    "中图法/H 语言、文字.md",
-    "中图法/V 航空、航天.md",
-    "中图法/X 环境科学、安全科学.md",
+    "未命名.canvas",
+    "中图法.md",
+    "README.md",
     "中图法/Z 综合性图书.md",
-    "中图法/A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md",
-    "中图法/N 自然科学总论.md",
-    "中图法/O 数理科学和化学.md",
-    "中图法/P 天文学、地球科学.md",
-    "中图法/Q 生物科学.md",
-    "中图法/R 医药、卫生.md",
-    "中图法/S 农业科学.md",
+    "中图法/X 环境科学、安全科学.md",
+    "中图法/U 交通运输.md",
     "中图法/T 工业技术.md",
+    "中图法/S 农业科学.md",
+    "中图法/R 医药、卫生.md",
+    "中图法/P 天文学、地球科学.md",
+    "中图法/O 数理科学和化学.md",
+    "中图法/J 艺术.md",
+    "中图法/A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md",
+    "中图法/C 社会科学总论.md",
+    "中图法/D 政治、法律.md",
+    "中图法/B 哲学.md",
+    "epub制作合集.md",
+    "Web前端/材料.md",
+    "Web前端/故障复盘.md",
+    "PC&手机软件.md",
+    "搜索技巧.md",
+    "名言.md",
+    "练字.md",
+    "进度.md",
+    "材料清单.md",
+    "PC&手机软件/MX Player.md",
+    "随录/中图法.canvas",
+    "随录/费曼学习法.canvas",
+    "随录/工作、消费主义和新穷人.canvas",
+    "Image/css !important.png",
+    "未命名",
     "书籍.canvas",
     "中图法",
     "专升本",
