@@ -72,7 +72,8 @@
 		{"id":"772f4ce8cef861cf","type":"text","text":"牡蛎","x":350,"y":419,"width":250,"height":60},
 		{"id":"e433626682b27679","type":"text","text":"荷尔蒙","x":819,"y":419,"width":250,"height":60},
 		{"id":"4927773fa4432ff7","type":"text","text":"生蚝","x":427,"y":560,"width":96,"height":60},
-		{"id":"7a81863a326107b6","type":"text","text":"虾: 含锌元素","x":115,"y":500,"width":250,"height":60}
+		{"id":"7a81863a326107b6","type":"text","text":"虾: 含锌元素","x":115,"y":500,"width":250,"height":60},
+		{"id":"cb971de747e2d15f","x":513,"y":-143,"width":250,"height":60,"type":"text","text":"瑜伽、跳舞"}
 	],
 	"edges":[
 		{"id":"5eece143d3d01bc0","fromNode":"23da874f35307cef","fromSide":"right","toNode":"301059a657568b72","toSide":"left"},
@@ -144,6 +145,7 @@
 		{"id":"62b1ca83a2c604cd","fromNode":"fe1943a06078131f","fromSide":"right","toNode":"15c37323fe64f4a5","toSide":"left"},
 		{"id":"632018f517dfa694","fromNode":"fe1943a06078131f","fromSide":"right","toNode":"2fb51b01d8eb0831","toSide":"left"},
 		{"id":"8d1e0b78500e76b5","fromNode":"c1ceda6b97de2082","fromSide":"left","toNode":"dd459fe8d4b08bbe","toSide":"right"},
-		{"id":"3ea15bcd49f498e1","fromNode":"c1ceda6b97de2082","fromSide":"left","toNode":"fd1c4cbc1d40ec45","toSide":"right"}
+		{"id":"3ea15bcd49f498e1","fromNode":"c1ceda6b97de2082","fromSide":"left","toNode":"fd1c4cbc1d40ec45","toSide":"right"},
+		{"id":"5ed1a5ecbf745697","fromNode":"23da874f35307cef","fromSide":"bottom","toNode":"cb971de747e2d15f","toSide":"left"}
 	]
 }
