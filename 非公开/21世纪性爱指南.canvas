@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"57d33e4863fb51bf","x":360,"y":-1480,"width":1106,"height":420,"type":"group","label":"温度、压力和湿度结合"},
+		{"id":"57d33e4863fb51bf","type":"group","x":360,"y":-1480,"width":1106,"height":420,"label":"温度、压力和湿度结合"},
 		{"id":"23da874f35307cef","type":"text","text":"21世纪性爱指南","x":-13,"y":-247,"width":250,"height":60},
 		{"id":"cc39caf7c5aeaaa0","type":"text","text":"侧滑式：女方躺着，一条腿竖起，架在男方的肩膀","x":1647,"y":-483,"width":442,"height":60},
 		{"id":"95b51fe28664e650","type":"text","text":"犬交式：女女双手支撑，男女背后插入 。","x":1627,"y":-693,"width":373,"height":60},
@@ -52,8 +52,6 @@
 		{"id":"ead70ef3d7701661","type":"text","text":"做爱前 水果加蜂蜜大餐","x":-1065,"y":-557,"width":250,"height":60},
 		{"id":"8f41fa3c06b08663","type":"text","text":"水果：甜","x":-775,"y":-557,"width":133,"height":60},
 		{"id":"7454017f46783ea4","type":"text","text":"素食：最棒","x":-787,"y":-483,"width":145,"height":60},
-		{"id":"5f26c562348ed6a8","type":"text","text":"食肉多：辛辣","x":-822,"y":-394,"width":180,"height":60},
-		{"id":"660095cd852c0371","type":"text","text":"烟：苦","x":-775,"y":-313,"width":133,"height":60},
 		{"id":"f411abb8d188b7ec","type":"text","text":"酒精：酸","x":-785,"y":-223,"width":143,"height":66},
 		{"id":"dd459fe8d4b08bbe","type":"text","text":"耳朵","x":-380,"y":-995,"width":250,"height":60},
 		{"id":"97b41e845816eb92","type":"text","text":"膝盖后方：抚摸 亲吻","x":-380,"y":-1098,"width":250,"height":60},
@@ -73,7 +71,9 @@
 		{"id":"e433626682b27679","type":"text","text":"荷尔蒙","x":819,"y":419,"width":250,"height":60},
 		{"id":"4927773fa4432ff7","type":"text","text":"生蚝","x":427,"y":560,"width":96,"height":60},
 		{"id":"7a81863a326107b6","type":"text","text":"虾: 含锌元素","x":115,"y":500,"width":250,"height":60},
-		{"id":"cb971de747e2d15f","x":513,"y":-143,"width":250,"height":60,"type":"text","text":"瑜伽、跳舞"}
+		{"id":"cb971de747e2d15f","type":"text","text":"瑜伽、跳舞","x":513,"y":-143,"width":250,"height":60},
+		{"id":"660095cd852c0371","type":"text","text":"烟：苦","x":-775,"y":-307,"width":133,"height":60},
+		{"id":"5f26c562348ed6a8","type":"text","text":"食肉多：辛辣","x":-815,"y":-400,"width":180,"height":60}
 	],
 	"edges":[
 		{"id":"5eece143d3d01bc0","fromNode":"23da874f35307cef","fromSide":"right","toNode":"301059a657568b72","toSide":"left"},
@@ -146,6 +146,7 @@
 		{"id":"632018f517dfa694","fromNode":"fe1943a06078131f","fromSide":"right","toNode":"2fb51b01d8eb0831","toSide":"left"},
 		{"id":"8d1e0b78500e76b5","fromNode":"c1ceda6b97de2082","fromSide":"left","toNode":"dd459fe8d4b08bbe","toSide":"right"},
 		{"id":"3ea15bcd49f498e1","fromNode":"c1ceda6b97de2082","fromSide":"left","toNode":"fd1c4cbc1d40ec45","toSide":"right"},
-		{"id":"5ed1a5ecbf745697","fromNode":"23da874f35307cef","fromSide":"bottom","toNode":"cb971de747e2d15f","toSide":"left"}
+		{"id":"5ed1a5ecbf745697","fromNode":"23da874f35307cef","fromSide":"bottom","toNode":"cb971de747e2d15f","toSide":"left"},
+		{"id":"f67d6b1be8d467c8","fromNode":"e95f28dacbe7bb30","fromSide":"left","toNode":"5f26c562348ed6a8","toSide":"right"}
 	]
 }
