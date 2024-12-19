@@ -1,5 +1,7 @@
 [
   "obsidian-markmind",
   "obsidian-mind-map",
-  "breadcrumbs"
+  "dataview",
+  "obsidian-excalidraw-plugin",
+  "excalibrain"
 ]

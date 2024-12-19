@@ -4,36 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fdd54c7dfd9a1746",
+        "id": "928b10bb12ed46ab",
         "type": "tabs",
         "children": [
           {
-            "id": "8bc8488888b9ed40",
+            "id": "98ade95cccb196b6",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": -755,
-                  "y": 79.5,
-                  "zoom": 0
-                }
+                "file": "搜索技巧.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
-            }
-          },
-          {
-            "id": "846c23053d740041",
-            "type": "leaf",
-            "state": {
-              "type": "mindmapview",
-              "state": {
-                "file": "中图法.md"
-              },
-              "icon": "blocks",
-              "title": "中图法"
+              "icon": "lucide-file",
+              "title": "搜索技巧"
             }
           }
         ]
@@ -164,29 +149,38 @@
             "id": "88081e2d83c5e782",
             "type": "leaf",
             "state": {
-              "type": "BC-matrix",
+              "type": "empty",
               "state": {},
-              "icon": "BC-trail-icon",
-              "title": "Breadcrumbs Matrix"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           },
           {
             "id": "7dd23cb9cc9b2406",
             "type": "leaf",
             "state": {
-              "type": "BC-tree",
+              "type": "empty",
               "state": {},
-              "icon": "feather-corner-right-down",
-              "title": "Breadcrumbs Down"
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          },
+          {
+            "id": "3076ce740e348868",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,23 +190,30 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "7dd23cb9cc9b2406",
+  "active": "eb8e2a24a63ca697",
   "lastOpenFiles": [
+    "清洁物品.md",
+    "名言.md",
+    "excalibrain.md",
+    "Excalidraw/Drawing 2024-12-19 00.03.30.excalidraw.md",
+    "金陵春关系图谱.md",
     "中图法.md",
-    "未命名.canvas",
-    "搜索技巧.md",
-    "epub制作合集.md",
-    "PC&手机软件.md",
     "README.md",
+    "PC&手机软件.md",
     "Web前端.md",
+    "epub制作合集.md",
+    "Drawing 2024-12-19 00.08.19.excalidraw.md",
+    "Drawing 2024-12-18 23.54.36.excalidraw.md",
+    "Excalidraw/Drawing 2024-12-19 00.04.22.excalidraw.md",
+    "Excalidraw",
+    "未命名.canvas",
+    "读书笔记.md",
+    "搜索技巧.md",
     "非公开/21世纪性爱指南.canvas",
     "材料清单.md",
-    "读书笔记.md",
-    "名言.md",
-    "清洁物品.md",
     "系统.canvas",
     "--Web前端/JavaScript.md",
     "专升本/程序设计基础.md",
@@ -227,11 +228,6 @@
     "专升本/中国近代史.md",
     "专升本/线性代数.md",
     "专升本/计算机组成原理.md",
-    "专升本/概率论与数理统计.md",
-    "专升本/大学英语.md",
-    "英语兔/语法.md",
-    "英语兔/英语兔.md",
-    "英语兔/动词语气.md",
     "--读书笔记/中图法.canvas",
     "Image/css !important.png",
     "书籍.canvas",
