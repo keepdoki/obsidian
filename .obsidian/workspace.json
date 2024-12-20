@@ -11,12 +11,14 @@
             "id": "c22847746c0d1060",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "中图法.md"
+                "file": "PC&手机软件.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "中图法"
+              "icon": "lucide-file",
+              "title": "PC&手机软件"
             }
           }
         ]
@@ -137,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中图法.md"
+                "file": "PC&手机软件.md"
               },
               "icon": "lucide-list",
-              "title": "中图法 的大纲"
+              "title": "PC&手机软件 的大纲"
             }
           },
           {
@@ -188,15 +190,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "media-extended:Open media": false
     }
   },
   "active": "c22847746c0d1060",
   "lastOpenFiles": [
+    "中图法.md",
     "金陵春人物关系图谱.canvas",
     "名言.md",
-    "中图法.md",
     "PC&手机软件.md",
     "README.md",
     "Web前端.md",
