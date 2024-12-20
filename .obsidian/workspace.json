@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "928b10bb12ed46ab",
+        "id": "823f6416f6919bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "98ade95cccb196b6",
+            "id": "c22847746c0d1060",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "搜索技巧.md",
-                "mode": "source",
-                "source": false
+                "file": "中图法.md"
               },
-              "icon": "lucide-file",
-              "title": "搜索技巧"
+              "icon": "blocks",
+              "title": "中图法"
             }
           }
         ]
@@ -139,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "搜索技巧.md"
+                "file": "中图法.md"
               },
               "icon": "lucide-list",
-              "title": "搜索技巧 的大纲"
+              "title": "中图法 的大纲"
             }
           },
           {
@@ -190,44 +188,45 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "eb8e2a24a63ca697",
+  "active": "c22847746c0d1060",
   "lastOpenFiles": [
-    "清洁物品.md",
+    "金陵春人物关系图谱.canvas",
     "名言.md",
+    "中图法.md",
+    "PC&手机软件.md",
+    "README.md",
+    "Web前端.md",
     "excalibrain.md",
+    "金陵春关系图谱/程家.md",
+    "金陵春关系图谱/长房.md",
+    "金陵春关系图谱/二房.md",
+    "epub制作合集.md",
+    "Media Note - 也许是B站最好的Obsidian新手教程！爆肝30天，一站式入门双向链接笔记软件｜黑曜石.md",
+    "清洁物品.md",
+    "搜索技巧.md",
+    "金陵春关系图谱/Drawing 2024-12-19 21.55.56.excalidraw.md",
+    "材料清单.md",
+    "读书笔记.md",
+    "Research Document.md",
+    "金陵春关系图谱/大房.md",
+    "金陵春关系图谱/excalibrain.md",
+    "大房.md",
+    "金陵春关系图谱",
     "Excalidraw/Drawing 2024-12-19 00.03.30.excalidraw.md",
     "金陵春关系图谱.md",
-    "中图法.md",
-    "README.md",
-    "PC&手机软件.md",
-    "Web前端.md",
-    "epub制作合集.md",
     "Drawing 2024-12-19 00.08.19.excalidraw.md",
     "Drawing 2024-12-18 23.54.36.excalidraw.md",
     "Excalidraw/Drawing 2024-12-19 00.04.22.excalidraw.md",
     "Excalidraw",
-    "未命名.canvas",
-    "读书笔记.md",
-    "搜索技巧.md",
     "非公开/21世纪性爱指南.canvas",
-    "材料清单.md",
     "系统.canvas",
-    "--Web前端/JavaScript.md",
-    "专升本/程序设计基础.md",
-    "--读书笔记/重塑自我：如何成为一个很幸福的人.md",
     "非公开",
     "--读书笔记/费曼学习法.canvas",
-    "--Web前端/Web前端.md",
-    "--读书笔记/Kindle.md",
     "--读书笔记/工作、消费主义和新穷人.canvas",
-    "--读书笔记/非暴力沟通.md",
-    "专升本/专升本.md",
-    "专升本/中国近代史.md",
-    "专升本/线性代数.md",
-    "专升本/计算机组成原理.md",
     "--读书笔记/中图法.canvas",
     "Image/css !important.png",
     "书籍.canvas",
