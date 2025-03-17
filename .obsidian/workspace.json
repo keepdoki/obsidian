@@ -8,23 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cfe0b7b14448dacb",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "金陵春人物关系图谱.canvas",
-                "viewState": {
-                  "x": 228.5,
-                  "y": -731.0591575736969,
-                  "zoom": -2.2196286922698034
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "金陵春人物关系图谱"
-            }
-          },
-          {
             "id": "10097d46d374a7f0",
             "type": "leaf",
             "state": {
@@ -38,8 +21,7 @@
               "title": "康宁尊享"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,14 +200,14 @@
   "active": "10097d46d374a7f0",
   "lastOpenFiles": [
     "个险.md",
+    "读书笔记.md",
+    "材料清单.md",
+    "名言.md",
     "--个险/康宁尊享.md",
     "中图法.md",
     "epub制作合集.md",
     "搜索技巧.md",
     "清洁物品.md",
-    "名言.md",
-    "读书笔记.md",
-    "材料清单.md",
     "--个险",
     "README.md",
     "未命名.canvas",
