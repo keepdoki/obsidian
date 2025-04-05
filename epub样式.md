@@ -19,17 +19,56 @@ p {
 
 ```
 
-## 标题
+## 组合标题
 ```
+<h2 class="Title-center"><span class="Title-num">第000章</span><br/><span class="Title-text">标题</span></h2>
+
 .Title-center {
-  font-family: FZXiaoBiaoSong-B05T;
+  font-family: "楷体";
   text-indent: 0;
   duokan-text-indent: 0;
   text-align: center;
   line-height: 130%;
   font-size: 1em;
   margin-top: 0.7em;
-  margin-bottom: 1.8em;
+  margin-bottom: 1.2em;
+  color: #972F34;
+}
+span.Title-num {
+  font-family: "楷体";
+  text-indent: 0;
+  duokan-text-indent: 0;
+  text-align: left;
+  font-size: 0.7em;
+  background-color: #d21f68;
+  color: #fff;
+  border-radius: 5px 5px 0 0;
+  padding: 0.2em 0.3em 0.2em 0.3em;
+}
+span.Title-text {
+  font-family: "yan";
+  text-indent: 0;
+  duokan-text-indent: 0;
+  text-align: center;
+  font-size: 1em;
+  line-height: 130%;
+  color: #972F34;
+}
+
+```
+
+
+## 标题
+```
+.Title-center {
+  font-family: "fzxbsf";
+  text-indent: 0;
+  duokan-text-indent: 0;
+  text-align: center;
+  line-height: 130%;
+  font-size: 1em;
+  margin-top: 0.7em;
+  margin-bottom: 1.2em;
   color: #972F34;
 }
 ```
@@ -46,6 +85,7 @@ span.talk {
 span.emphasize {
   font-family: "楷体", serif;
   color: blue;
+  // color: #228dcb;
 }
 ```
 

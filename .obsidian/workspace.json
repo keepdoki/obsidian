@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "人寿客户备忘录.md",
+                "file": "--个险/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人寿客户备忘录"
+              "title": "README"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "be10dd25249efb72",
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "人寿客户备忘录.md",
+                "file": "--个险/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "人寿客户备忘录 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -199,17 +199,17 @@
   },
   "active": "05c075199d0c68a8",
   "lastOpenFiles": [
-    "--个险/备忘清单.md",
-    "人寿客户备忘录.md",
-    "Daily/2025-03-21_星期五.md",
-    "Daily",
     "--个险/康宁尊享.md",
     "个险.md",
+    "--个险/README.md",
+    "人寿客户备忘录.md",
     "epub样式.md",
-    "金陵春人物关系图谱.canvas",
-    "名言.md",
     "材料清单.md",
     "读书笔记.md",
+    "Daily/2025-03-21_星期五.md",
+    "Daily",
+    "金陵春人物关系图谱.canvas",
+    "名言.md",
     "Web前端.md",
     "未命名.canvas",
     "README.md",
