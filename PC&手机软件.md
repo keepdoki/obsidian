@@ -21,3 +21,4 @@
 | Aegisub                | PC  | 编辑器、字幕         | [链接1](https://aegisub.org/downloads)                                                                |               |
 | ReNamer Lite           | PC  | 操作文件           | [链接1](https://www.softpedia.com/get/System/File-Management/Denis-Kozlov-ReNamer.shtml)              |               |
 | Adobe Digital Editions | PC  | 阅读器            | [链接1](https://www.adobe.com/cn/solutions/ebook/digital-editions/download.html)                      |               |
+| MGit                   | 手机  | git同步工具        | [链接1](https://f-droid.org/packages/com.manichord.mgit)[Github](https://github.com/maks/MGit)        |               |
