@@ -11,14 +11,26 @@
             "id": "05c075199d0c68a8",
             "type": "leaf",
             "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "保险.md"
+              },
+              "icon": "blocks",
+              "title": "保险"
+            }
+          },
+          {
+            "id": "6cb5a280d5c14f50",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "PC&手机软件.md",
+                "file": "--保险/SDD-百万如意行两全保险.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PC&手机软件"
+              "title": "SDD-百万如意行两全保险"
             }
           }
         ]
@@ -140,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PC&手机软件.md",
+                "file": "保险.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "PC&手机软件 的大纲"
+              "title": "保险 的大纲"
             }
           },
           {
@@ -199,26 +211,28 @@
   },
   "active": "05c075199d0c68a8",
   "lastOpenFiles": [
+    "--保险/SEF-鑫益年年.md",
+    "--保险/SDD-百万如意行两全保险.md",
+    "--保险/SCQ-康宁尊享.md",
+    "保险.md",
+    "--保险/README.md",
+    "epub样式.md",
+    "epub制作合集.md",
+    "PC&手机软件.md",
     "未命名.canvas",
     "中图法.md",
-    "epub样式.md",
     "搜索技巧.md",
     "金陵春人物关系图谱.canvas",
-    "个险.md",
     "材料清单.md",
     "读书笔记.md",
-    "--个险/README.md",
-    "--个险/康宁尊享.md",
     "人寿客户备忘录.md",
     "Daily/2025-03-21_星期五.md",
     "Daily",
     "名言.md",
     "Web前端.md",
     "README.md",
-    "PC&手机软件.md",
-    "epub制作合集.md",
     "清洁物品.md",
-    "--个险",
+    "--保险",
     "excalibrain.md",
     "金陵春关系图谱/程家.md",
     "金陵春关系图谱/长房.md",
@@ -227,7 +241,6 @@
     "金陵春关系图谱/Drawing 2024-12-19 21.55.56.excalidraw.md",
     "Research Document.md",
     "金陵春关系图谱/大房.md",
-    "金陵春关系图谱/excalibrain.md",
     "金陵春关系图谱",
     "Excalidraw",
     "非公开/21世纪性爱指南.canvas",
