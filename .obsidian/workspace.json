@@ -11,12 +11,14 @@
             "id": "6cb5a280d5c14f50",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "保险.md"
+                "file": "--保险/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "保险"
+              "icon": "lucide-file",
+              "title": "README"
             }
           },
           {
@@ -152,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "保险.md",
+                "file": "--保险/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "保险 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -211,10 +213,10 @@
   },
   "active": "6cb5a280d5c14f50",
   "lastOpenFiles": [
+    "保险.md",
     "--保险/D7L-如E康悦百万医疗保险（盛典版）.md",
     "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
     "--保险/D7U-爱意康悦医疗保险.md",
-    "保险.md",
     "--保险/SDD-百万如意行两全保险.md",
     "未命名.canvas",
     "--保险/README.md",
