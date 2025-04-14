@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"ec09366a2c2593bc","x":-324,"y":-48,"width":250,"height":60,"type":"text","text":"阅读放松的原因"},
-		{"id":"e228040d7720450d","x":20,"y":-200,"width":250,"height":60,"type":"text","text":"掌控进度"},
-		{"id":"bd3ba9a9fabe0479","x":380,"y":-200,"width":360,"height":60,"type":"text","text":"根据兴趣，慢慢品味或者快速阅读"},
-		{"id":"a73ea28e9a801b6a","x":42,"y":-62,"width":250,"height":60,"type":"text","text":""},
-		{"id":"99070dcfe606cc6d","x":-398,"y":163,"width":250,"height":60,"type":"text","text":""},
-		{"id":"b14a37ab13f15e21","x":-66,"y":144,"width":626,"height":60,"type":"text","text":"逃离自己的世界，通过阅读来忘掉自己生活中发生的一切事情"},
+		{"id":"ec09366a2c2593bc","type":"text","text":"阅读放松的原因","x":-324,"y":-48,"width":250,"height":60},
+		{"id":"e228040d7720450d","type":"text","text":"掌控进度","x":20,"y":-200,"width":250,"height":60},
+		{"id":"bd3ba9a9fabe0479","type":"text","text":"根据兴趣，慢慢品味或者快速阅读","x":380,"y":-200,"width":360,"height":60},
+		{"id":"a73ea28e9a801b6a","type":"text","text":"","x":42,"y":-62,"width":250,"height":60},
+		{"id":"99070dcfe606cc6d","type":"text","text":"","x":-398,"y":163,"width":250,"height":60},
+		{"id":"b14a37ab13f15e21","type":"text","text":"逃离自己的世界，通过阅读来忘掉自己生活中发生的一切事情","x":-66,"y":144,"width":626,"height":60},
 		{"id":"3300570506663b4a","type":"text","text":"\t提升自己的见识，把阅读别人的生活作为反思自己生活的一种方式","x":-66,"y":240,"width":626,"height":60},
-		{"id":"a86f2d229b066fa1","x":615,"y":144,"width":250,"height":60,"type":"text","text":"分散我们对烦恼的注意力"},
-		{"id":"d799209313d26855","x":615,"y":240,"width":400,"height":60,"type":"text","text":"思绪漫游之际反思我们自己的生活"},
-		{"id":"14cb7829a1acf94d","x":41,"y":401,"width":379,"height":60,"type":"text","text":"阅读是为了乐趣还是评鉴书中的思想和情感"}
+		{"id":"a86f2d229b066fa1","type":"text","text":"分散我们对烦恼的注意力","x":615,"y":144,"width":250,"height":60},
+		{"id":"d799209313d26855","type":"text","text":"思绪漫游之际反思我们自己的生活","x":615,"y":240,"width":400,"height":60},
+		{"id":"14cb7829a1acf94d","type":"text","text":"阅读是为了乐趣还是评鉴书中的思想和情感","x":41,"y":401,"width":379,"height":60}
 	],
 	"edges":[
 		{"id":"b87d6bad0a28d06d","fromNode":"e228040d7720450d","fromSide":"right","toNode":"bd3ba9a9fabe0479","toSide":"left"},

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "05c075199d0c68a8",
+            "id": "6cb5a280d5c14f50",
             "type": "leaf",
             "state": {
               "type": "mindmapview",
@@ -20,17 +20,17 @@
             }
           },
           {
-            "id": "6cb5a280d5c14f50",
+            "id": "3bc7fd53f60287e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--保险/SDD-百万如意行两全保险.md",
+                "file": "--保险/D7L-如E康悦百万医疗保险（盛典版）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SDD-百万如意行两全保险"
+              "title": "D7L-如E康悦百万医疗保险（盛典版）"
             }
           }
         ]
@@ -209,17 +209,20 @@
       "media-extended:Open media": false
     }
   },
-  "active": "05c075199d0c68a8",
+  "active": "6cb5a280d5c14f50",
   "lastOpenFiles": [
-    "--保险/SEF-鑫益年年.md",
-    "--保险/SDD-百万如意行两全保险.md",
-    "--保险/SCQ-康宁尊享.md",
+    "--保险/D7L-如E康悦百万医疗保险（盛典版）.md",
+    "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
+    "--保险/D7U-爱意康悦医疗保险.md",
     "保险.md",
+    "--保险/SDD-百万如意行两全保险.md",
+    "未命名.canvas",
     "--保险/README.md",
+    "--保险/SEF-鑫益年年.md",
+    "--保险/SCQ-康宁尊享.md",
     "epub样式.md",
     "epub制作合集.md",
     "PC&手机软件.md",
-    "未命名.canvas",
     "中图法.md",
     "搜索技巧.md",
     "金陵春人物关系图谱.canvas",
@@ -238,9 +241,6 @@
     "金陵春关系图谱/长房.md",
     "金陵春关系图谱/二房.md",
     "Media Note - 也许是B站最好的Obsidian新手教程！爆肝30天，一站式入门双向链接笔记软件｜黑曜石.md",
-    "金陵春关系图谱/Drawing 2024-12-19 21.55.56.excalidraw.md",
-    "Research Document.md",
-    "金陵春关系图谱/大房.md",
     "金陵春关系图谱",
     "Excalidraw",
     "非公开/21世纪性爱指南.canvas",
