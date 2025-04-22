@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dc1d02032adb7f02",
+        "id": "5f6ffe028e443c72",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb5a280d5c14f50",
+            "id": "fda7d6942d3412ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--保险/SEF-鑫益年年.md",
-                "mode": "source",
-                "source": false
+                "file": "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "SEF-鑫益年年"
+              "title": "D6L-如E康悦百万医疗保险（2021版）"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--保险/SEF-鑫益年年.md",
+                "file": "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SEF-鑫益年年 的大纲"
+              "title": "D6L-如E康悦百万医疗保险（2021版） 的大纲"
             }
           },
           {
@@ -194,18 +194,40 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "media-extended:Open media": false
+      "media-extended:Open media": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "6cb5a280d5c14f50",
+  "active": "fda7d6942d3412ad",
   "lastOpenFiles": [
-    "--保险/SDD-百万如意行两全保险.md",
-    "--保险/SCQ-康宁尊享.md",
-    "--保险/D7U-爱意康悦医疗保险.md",
     "--保险/D7L-如E康悦百万医疗保险（盛典版）.md",
-    "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
-    "Document/D6L-国寿如E康悦百万医疗保险（2021版）-annotate.md",
+    "--保险/D7U-爱意康悦医疗保险.md",
+    "--保险/SCQ-康宁尊享.md",
+    "--保险/SDD-百万如意行两全保险.md",
+    "--保险/SEF-鑫益年年.md",
+    "--保险/U36-国寿增益宝养老年金保险（万能型）（庆典版）.md",
+    "--保险/U35-国寿如意宝养老年金保险（万能型）（庆典版.md",
+    "--保险/U34-国寿增益宝终身寿险（万能型）.md",
+    "--保险/U32-国寿如意宝终身寿险（万能型）（2024版）.md",
     "保险.md",
+    "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
+    "--保险/README.md",
+    "PC&手机软件.md",
+    "Web前端.md",
+    "README.md",
+    "epub制作合集.md",
+    "epub样式.md",
+    "读书笔记.md",
+    "材料清单.md",
+    "金陵春人物关系图谱.canvas",
+    "名言.md",
+    "搜索技巧.md",
+    "清洁物品.md",
+    "--PC&手机软件/Calibre.md",
+    "--保险/车险.md",
+    "Document/D6L-国寿如E康悦百万医疗保险（2021版）-annotate.md",
     "Document/D7U-国寿爱意康悦医疗保险.pdf",
     "Document/SDD-国寿百万如意行两全保险（2024版）.pdf",
     "Document/SCQ-国寿康宁尊享重大疾病保险（2024版）.pdf",
@@ -216,27 +238,8 @@
     "Document/U36-国寿增益宝养老年金保险（万能型）（庆典版）.pdf",
     "Document/SDK-国寿鑫益传家终身寿险（分红型）.pdf",
     "Document/U35-国寿如意宝养老年金保险（万能型）（庆典版.pdf",
-    "材料清单.md",
-    "金陵春人物关系图谱.canvas",
-    "名言.md",
-    "清洁物品.md",
-    "搜索技巧.md",
-    "--保险/README.md",
     "--保险/交强险.md",
-    "--保险/车险.md",
-    "读书笔记.md",
-    "epub样式.md",
-    "中图法.md",
     "未命名.canvas",
-    "--保险/SEF-鑫益年年.md",
-    "epub制作合集.md",
-    "PC&手机软件.md",
-    "人寿客户备忘录.md",
-    "Daily/2025-03-21_星期五.md",
-    "Web前端.md",
-    "README.md",
-    "excalibrain.md",
-    "金陵春关系图谱/程家.md",
     "非公开/21世纪性爱指南.canvas",
     "系统.canvas",
     "--读书笔记/费曼学习法.canvas",
