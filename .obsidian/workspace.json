@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
+                "file": "--保险/D7L-如E康悦百万医疗保险（盛典版）.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "D6L-如E康悦百万医疗保险（2021版）"
+              "title": "D7L-如E康悦百万医疗保险（盛典版）"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
+                "file": "Document/D6L-国寿如E康悦百万医疗保险（2021版）-annotate.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "D6L-如E康悦百万医疗保险（2021版） 的大纲"
+              "title": "D6L-国寿如E康悦百万医疗保险（2021版）-annotate 的大纲"
             }
           },
           {
@@ -200,9 +200,11 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "fda7d6942d3412ad",
+  "active": "eb8e2a24a63ca697",
   "lastOpenFiles": [
     "--保险/D7L-如E康悦百万医疗保险（盛典版）.md",
+    "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
+    "epub样式.md",
     "--保险/D7U-爱意康悦医疗保险.md",
     "--保险/SCQ-康宁尊享.md",
     "--保险/SDD-百万如意行两全保险.md",
@@ -212,13 +214,11 @@
     "--保险/U34-国寿增益宝终身寿险（万能型）.md",
     "--保险/U32-国寿如意宝终身寿险（万能型）（2024版）.md",
     "保险.md",
-    "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
     "--保险/README.md",
     "PC&手机软件.md",
     "Web前端.md",
     "README.md",
     "epub制作合集.md",
-    "epub样式.md",
     "读书笔记.md",
     "材料清单.md",
     "金陵春人物关系图谱.canvas",
