@@ -61,7 +61,7 @@ span.Title-text {
 ## 标题
 ```
 .Title-center {
-  font-family: "fzxbsf";
+  font-family: "楷体";
   text-indent: 0;
   duokan-text-indent: 0;
   text-align: center;
