@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--读书笔记/系统之美：决策者的系统思考.md",
-                "mode": "source",
+                "file": "epub样式.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "系统之美：决策者的系统思考"
+              "title": "epub样式"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--读书笔记/系统之美：决策者的系统思考.md",
+                "file": "epub样式.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "系统之美：决策者的系统思考 的大纲"
+              "title": "epub样式 的大纲"
             }
           },
           {
@@ -202,11 +202,11 @@
   },
   "active": "20cc110ef0e1198f",
   "lastOpenFiles": [
+    "--读书笔记/系统之美：决策者的系统思考.md",
     "--读书笔记/才能变现：如何发掘、利用自己的才能.md",
     "--Web前端/CSS.md",
     "--读书笔记/信任五环：超级销售拜访技巧.md",
     "读书笔记.md",
-    "--读书笔记/系统之美：决策者的系统思考.md",
     "Image/stock-flow-chart.jpg",
     "--保险/README.md",
     "材料清单.md",
