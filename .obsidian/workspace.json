@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "--保险/682-长久呵护住院费用补偿.md",
+                "file": "材料清单.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "682-长久呵护住院费用补偿"
+              "title": "材料清单"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "--保险/682-长久呵护住院费用补偿.md",
+                "file": "材料清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "682-长久呵护住院费用补偿 的大纲"
+              "title": "材料清单 的大纲"
             }
           },
           {
@@ -287,10 +287,10 @@
   },
   "active": "01267cdf26b8968e",
   "lastOpenFiles": [
+    "--保险/682-长久呵护住院费用补偿.md",
     "--保险/D6F-长久呵护住院费用补偿医疗保险.md",
     "--保险/D6E-长久呵护意外伤害费用补偿医疗保险.md",
     "--保险/D2Y-贴心呵护住院医疗.md",
-    "--保险/682-长久呵护住院费用补偿.md",
     "--保险/681-长久呵护意外伤害费用补偿.md",
     "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
     "保险.md",
