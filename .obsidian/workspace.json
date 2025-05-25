@@ -4,109 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3621db5c7875d10a",
+        "id": "0ffd6ed167a4680b",
         "type": "tabs",
         "children": [
           {
-            "id": "961ada377195a97b",
+            "id": "bfac99f68ae05fff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "--保险/D6E-长久呵护意外伤害费用补偿医疗保险.md",
-                "mode": "source",
-                "source": false
+                "file": "用药分类.md"
               },
-              "icon": "lucide-file",
-              "title": "D6E-长久呵护意外伤害费用补偿医疗保险"
-            }
-          },
-          {
-            "id": "cf54f13c414575db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--保险/681-长久呵护意外伤害费用补偿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "681-长久呵护意外伤害费用补偿"
-            }
-          },
-          {
-            "id": "ffe0faf20251a659",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--保险/D2Y-贴心呵护住院医疗.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D2Y-贴心呵护住院医疗"
-            }
-          },
-          {
-            "id": "01267cdf26b8968e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "材料清单.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "材料清单"
-            }
-          },
-          {
-            "id": "a33ac7f3f3c5ade0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--保险/D6F-长久呵护住院费用补偿医疗保险.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D6F-长久呵护住院费用补偿医疗保险"
-            }
-          },
-          {
-            "id": "8d1ef943bf7dd6e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--保险/682-长久呵护住院费用补偿.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "682-长久呵护住院费用补偿"
-            }
-          },
-          {
-            "id": "c531ae25a968d76e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "--保险/D2Y-贴心呵护住院医疗.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D2Y-贴心呵护住院医疗"
+              "icon": "blocks",
+              "title": "用药分类"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -225,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "材料清单.md",
+                "file": "用药分类.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "材料清单 的大纲"
+              "title": "用药分类 的大纲"
             }
           },
           {
@@ -285,38 +198,38 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "01267cdf26b8968e",
+  "active": "bfac99f68ae05fff",
   "lastOpenFiles": [
+    "中图法.md",
+    "用药分类.md",
+    "--保险/SDK-国寿鑫益传家终身寿险（分红型）.md",
+    "保险.md",
+    "--保险/D2Y-贴心呵护住院医疗.md",
+    "--保险/README.md",
+    "--保险/车险.md",
+    "语录.md",
+    "--读书笔记/才能变现：如何发掘、利用自己的才能.md",
+    "epub样式.md",
+    "搜索技巧.md",
+    "清洁物品.md",
+    "读书笔记.md",
+    "材料清单.md",
     "--保险/682-长久呵护住院费用补偿.md",
     "--保险/D6F-长久呵护住院费用补偿医疗保险.md",
     "--保险/D6E-长久呵护意外伤害费用补偿医疗保险.md",
-    "--保险/D2Y-贴心呵护住院医疗.md",
     "--保险/681-长久呵护意外伤害费用补偿.md",
     "--保险/D6L-如E康悦百万医疗保险（2021版）.md",
-    "保险.md",
     "--保险/呵护系列.md",
     "Web前端.md",
     "README.md",
     "PC&手机软件.md",
-    "epub样式.md",
     "epub制作合集.md",
-    "中图法.md",
     "--读书笔记/未命名.canvas",
-    "清洁物品.md",
-    "搜索技巧.md",
-    "名言.md",
-    "读书笔记.md",
-    "材料清单.md",
     "其他/金陵春人物关系图谱.canvas",
     "其他",
     "281ED4C6904E73F1D9CE714BB0E79F66.png",
     "--保险/SEF-鑫益年年.md",
     "--保险/SDD-百万如意行两全保险.md",
-    "--保险/SCQ-康宁尊享.md",
-    "--保险/README.md",
-    "--读书笔记/系统之美：决策者的系统思考.md",
-    "--读书笔记/才能变现：如何发掘、利用自己的才能.md",
-    "--Web前端/CSS.md",
     "Image/stock-flow-chart.jpg",
     "--读书笔记/工作、消费主义和新穷人.canvas",
     "Document/D7U-国寿爱意康悦医疗保险.pdf",
