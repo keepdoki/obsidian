@@ -11,12 +11,14 @@
             "id": "367ab586b91e0c88",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "保险.md"
+                "file": "材料清单.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "保险"
+              "icon": "lucide-file",
+              "title": "材料清单"
             }
           },
           {
@@ -166,13 +168,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "保险.md",
+                "file": "材料清单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "保险 的大纲"
+              "title": "材料清单 的大纲"
             }
           },
           {
@@ -228,8 +230,13 @@
   },
   "active": "367ab586b91e0c88",
   "lastOpenFiles": [
-    "SED-国寿鑫益金生年金保险（分红型）.md",
+    "PC&手机软件.md",
+    "材料清单.md",
+    "用药分类.md",
+    "epub样式.md",
+    "epub制作合集.md",
     "保险.md",
+    "SED-国寿鑫益金生年金保险（分红型）.md",
     "SEE-国寿鑫益鸿庆年金保险.md",
     "--保险/SEF-国寿鑫益年年年金保险（分红型）.md",
     "--保险/SFA-国寿鑫越稳赢养老年金保险.md",
@@ -248,15 +255,10 @@
     "--保险/D6E-长久呵护意外伤害费用补偿医疗保险.md",
     "--保险/README.md",
     "Document/SDL-国寿鑫益丰年养老年金保险（分红型）.pdf",
-    "用药分类.md",
     "中图法.md",
     "--保险/D2Y-贴心呵护住院医疗.md",
     "--保险/车险.md",
     "语录.md",
-    "--读书笔记/才能变现：如何发掘、利用自己的才能.md",
-    "epub样式.md",
-    "搜索技巧.md",
-    "清洁物品.md",
     "--读书笔记/未命名.canvas",
     "其他/金陵春人物关系图谱.canvas",
     "其他",

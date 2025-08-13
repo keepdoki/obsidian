@@ -2,7 +2,7 @@
 | ---------------------- | --- | -------------- | --------------------------------------------------------------------------------------------------- | ------------- |
 | foobar2000             | PC  | 音乐、编辑器、播放器     | [链接1](https://dream7180.gitee.io/2023/foobox-release/)、[链接2](https://www.nljs.site/foobar2000.html) |               |
 | 163MusicLyrics         | PC  | 音乐、歌词、下载器      | [链接1](https://github.com/jitwxs/163MusicLyrics/releases)                                            |               |
-| PotPlayer              | PC  | 视频、播放器         | [链接1](https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe)               | [[Potplayer]] |
+| PotPlayer              | PC  | 视频、播放器         | [链接1](http://www.potplayercn.com/download)                                                          | [[Potplayer]] |
 | TrafficMonitor         | PC  | 网络、监视器         | [链接1](https://github.com/zhongyang219/TrafficMonitor)                                               |               |
 | WinRaR                 | PC  | 压缩             | [链接1](https://www.rarlab.com)                                                                       |               |
 | Honeyview · 蜂蜜浏览器      | PC  | 图片、阅读          | [链接1](https://www.bandisoft.com/honeyview)                                                          |               |
