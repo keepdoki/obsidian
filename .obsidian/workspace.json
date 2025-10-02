@@ -4,49 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7e6eec75abc93ecd",
+        "id": "85aca5ca54389c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "367ab586b91e0c88",
+            "id": "4fdb46a604aa30b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "材料清单.md",
-                "mode": "source",
-                "source": false
+                "file": "中图法.md"
               },
-              "icon": "lucide-file",
-              "title": "材料清单"
-            }
-          },
-          {
-            "id": "0af46e96e68ca5aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SED-国寿鑫益金生年金保险（分红型）.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SED-国寿鑫益金生年金保险（分红型）"
-            }
-          },
-          {
-            "id": "f25fc6a236d23951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SEE-国寿鑫益鸿庆年金保险.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SEE-国寿鑫益鸿庆年金保险"
+              "icon": "blocks",
+              "title": "中图法"
             }
           }
         ]
@@ -168,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "材料清单.md",
+                "file": "中图法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "材料清单 的大纲"
+              "title": "中图法 的大纲"
             }
           },
           {
@@ -216,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -228,13 +199,17 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "367ab586b91e0c88",
+  "active": "4fdb46a604aa30b8",
   "lastOpenFiles": [
+    "epub样式.md",
+    "领域.md",
+    "中图法.md",
     "PC&手机软件.md",
+    "README.md",
+    "epub制作合集.md",
+    "Web前端.md",
     "材料清单.md",
     "用药分类.md",
-    "epub样式.md",
-    "epub制作合集.md",
     "保险.md",
     "SED-国寿鑫益金生年金保险（分红型）.md",
     "SEE-国寿鑫益鸿庆年金保险.md",
@@ -255,10 +230,6 @@
     "--保险/D6E-长久呵护意外伤害费用补偿医疗保险.md",
     "--保险/README.md",
     "Document/SDL-国寿鑫益丰年养老年金保险（分红型）.pdf",
-    "中图法.md",
-    "--保险/D2Y-贴心呵护住院医疗.md",
-    "--保险/车险.md",
-    "语录.md",
     "--读书笔记/未命名.canvas",
     "其他/金陵春人物关系图谱.canvas",
     "其他",
