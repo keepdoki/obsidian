@@ -13,10 +13,10 @@
             "state": {
               "type": "mindmapview",
               "state": {
-                "file": "中图法.md"
+                "file": "领域.md"
               },
               "icon": "blocks",
-              "title": "中图法"
+              "title": "领域"
             }
           }
         ]
@@ -138,13 +138,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中图法.md",
+                "file": "领域.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "中图法 的大纲"
+              "title": "领域 的大纲"
             }
           },
           {
@@ -201,9 +201,9 @@
   },
   "active": "4fdb46a604aa30b8",
   "lastOpenFiles": [
-    "epub样式.md",
-    "领域.md",
     "中图法.md",
+    "领域.md",
+    "epub样式.md",
     "PC&手机软件.md",
     "README.md",
     "epub制作合集.md",
