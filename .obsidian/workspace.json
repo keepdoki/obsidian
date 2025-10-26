@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31c59a6ceac7ab91",
+        "id": "85aca5ca54389c1c",
         "type": "tabs",
         "children": [
           {
-            "id": "c2cbbe9c826b69d3",
+            "id": "4fdb46a604aa30b8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapview",
               "state": {
-                "file": "PC&手机软件.md",
-                "mode": "source",
-                "source": false
+                "file": "领域.md"
               },
-              "icon": "lucide-file",
-              "title": "PC&手机软件"
+              "icon": "blocks",
+              "title": "领域"
             }
           }
         ]
@@ -140,13 +138,21 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "--Web前端/uni-App.md",
+=======
+                "file": "领域.md",
+>>>>>>> ec114956259f48742d316ca10423d3100aff692e
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< HEAD
               "title": "uni-App 的大纲"
+=======
+              "title": "领域 的大纲"
+>>>>>>> ec114956259f48742d316ca10423d3100aff692e
             }
           },
           {
@@ -202,10 +208,25 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
+<<<<<<< HEAD
   "active": "c2cbbe9c826b69d3",
   "lastOpenFiles": [
     "解决问题的能力.md",
     "中图法.md",
+=======
+  "active": "4fdb46a604aa30b8",
+  "lastOpenFiles": [
+    "中图法.md",
+    "领域.md",
+    "epub样式.md",
+    "PC&手机软件.md",
+    "README.md",
+    "epub制作合集.md",
+    "Web前端.md",
+    "材料清单.md",
+    "用药分类.md",
+    "保险.md",
+>>>>>>> ec114956259f48742d316ca10423d3100aff692e
     "SED-国寿鑫益金生年金保险（分红型）.md",
     "--Web前端/uni-App.md",
     "未命名.md",
